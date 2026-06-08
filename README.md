@@ -18,6 +18,14 @@ A web scraper that retrieves competitor product prices in real time — the foun
 
 -----
 
+### 🚛 [TruTrak Vehicle Tracking API Integration](https://github.com/Salim-Willshire/Python-TruTrak)
+
+**Python · REST API · CSV · Power BI**
+
+A Python script that connects to the TruTrak API to pull real-time vehicle tracking data and export it to CSV — built specifically for ingestion into Power BI for operational analysis. A practical example of bridging third-party APIs with BI tooling to give teams live visibility into fleet data.
+
+-----
+
 ### 🥤 [Melanie’s Smoothie Order App](https://github.com/Salim-Willshire/melanies_smoothies)
 
 **Snowflake · Streamlit · Python**
