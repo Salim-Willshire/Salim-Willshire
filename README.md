@@ -18,7 +18,7 @@ A web scraper that retrieves competitor product prices in real time — the foun
 
 -----
 
-### 🥤 [Melanie’s Smoothie Order App](https://github.com/Salim-Willshire/Melanies_smoothie)
+### 🥤 [Melanie’s Smoothie Order App](https://github.com/Salim-Willshire/melanies_smoothies)
 
 **Snowflake · Streamlit · Python**
 
