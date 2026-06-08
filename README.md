@@ -1,16 +1,46 @@
-- 👋 Hi, I’m @Salim-Willshire
-- 
-- 👀 I’m interested in -
-- Data Analysis: I'm passionate about using tools like Power BI, Excel, and MySQL to extract valuable insights from data.
-- Pricing Strategies: Exploring innovative pricing models and strategies in the context of commercial pricing.
-- System Integration: Integrating and setting up systems, like point of sale and accounting systems, for streamlined data analysis.
-- Cash Flow Management: Optimising cash flow processes within the food distribution industry.
-- Importing and Logistics: Managing the importation of goods efficiently.
-- Payroll and HR: Handling payroll and HR responsibilities effectively.
-- Continuous Improvement: Always looking for ways to enhance processes and workflows.
-- 
-- 🌱 I’m currently learning:
-- Python: I'm currently expanding my skills in Python, with a focus on using it to automate tasks and enhance my data analysis capabilities.
-- I'm currently working on creating a web scraper to extract pricing data from competitors' websites.
+# Hi, I’m Salim 👋
 
+**Product Data Analyst** | Power BI · SQL · DAX · Snowflake · Python · C# · Power Automate
 
+I turn complex business data into decisions that move organisations forward — building the pipelines, models, and dashboards that give leadership teams real visibility into performance, risk, and opportunity.
+
+Currently at **Cygnet Health Care** as a Product Data Analyst, bridging business stakeholders and technical teams within Digital Services. Previously at **UK Original Foods**, where I led the full data and BI function — helping grow revenue from £1M to £6M through customer behaviour models, automated reporting, and a custom C# application with embedded AI analytics that cut reporting time by 50%.
+
+-----
+
+## 🗂️ Projects
+
+### 🔍 [Competitor Price Scraping Tool](https://github.com/Salim-Willshire/Python)
+
+**Python · BeautifulSoup · Requests**
+
+A web scraper that retrieves competitor product prices in real time — the foundation for a full Competitive Price Analysis Tool. Built to support data-driven pricing decisions, with plans to extend into Excel export and price alignment workflows.
+
+-----
+
+### 🥤 [Melanie’s Smoothie Order App](https://github.com/Salim-Willshire/Melanies_smoothie)
+
+**Snowflake · Streamlit · Python**
+
+A data application built during the [Snowflake Badge 3: Data Application Builders Workshop](https://achieve.snowflake.com/6a178323-8b69-4325-9241-3570562fde3e#acc.nabCfUFV). Connects a Streamlit front end to Snowflake’s cloud data platform to manage smoothie orders — a hands-on project exploring cloud data pipelines and app integration.
+
+-----
+
+## 🛠️ Tech Stack
+
+|Area           |Tools                                                       |
+|---------------|------------------------------------------------------------|
+|BI & Reporting |Power BI, DAX, Power Automate                               |
+|Data & Querying|SQL, Snowflake                                              |
+|Programming    |Python, C#                                                  |
+|Domains        |Data Engineering, Business Intelligence, Stakeholder Insight|
+
+-----
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salim-willshire)
+
+-----
+
+*Always building. Always learning.*
