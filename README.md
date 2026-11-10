@@ -39,7 +39,7 @@ A data application built during the [Snowflake Badge 3: Data Application Builder
 |Area           |Tools                                                       |
 |---------------|------------------------------------------------------------|
 |BI & Reporting |Power BI, DAX, Power Automate                               |
-|Data & Querying|SQL, Snowflake                                              |
+|Data & Querying|SQL, Snowflake, Azure Data Factory, SSMS, DevOps                                              |
 |Programming    |Python, C#                                                  |
 |Domains        |Data Engineering, Business Intelligence, Stakeholder Insight|
 
